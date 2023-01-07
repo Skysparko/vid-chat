@@ -188,3 +188,8 @@ body {
 .form .unknown-form {
     display: none
 }
+
+.show{
+    padding-right: 10.9922px; 
+    display: block;
+}
